@@ -34,5 +34,5 @@ Sou desenvolvedora apaixonada por tecnologia e sempre buscando novos desafios.
 ## Sobre mim:
 - 🔭 Atualmente estou trabalhando em alguns projetos pessoais para aprendizado e aumentar meu portfólio.
 - 🌱 Aprendendo: Sistemas de Informações, desenvolvimento de APP/Sites e Designer UI/UX.
-- ⚡ Fato curioso: Amo ver séries coreanas e sou um grande fã de culturas diferentes da minha!
+- ⚡ Fato curioso: Amo ver séries coreanas e sou uma grande fã de culturas diferentes da minha!
 - 📫 Como me contatar: [arygucha@gmail.com](mailto:arygucha@gmail.com)
