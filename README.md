@@ -20,6 +20,9 @@ Sou desenvolvedora apaixonada por tecnologia e sempre buscando novos desafios.
 
 
 
+
+
+
 ## Minhas Redes Sociais:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/ariana-nascimento-de-jesus-7754b599/)
