@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou a Ariana 👋
 
-<!--
-**gucha36/gucha36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora apaixonada por tecnologia e sempre buscando novos desafios.
 
-Here are some ideas to get you started:
+## Minhas Redes Sociais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ariana-nascimento-de-jesus-7754b599/)](https://www.linkedin.com/in/ariana-nascimento-de-jesus-7754b599/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/gucha36)](https://github.com/gucha36)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1194991140106162317)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arygucha@gmail.com)
+
+
+
+## Sobre mim:
+- 🔭 Atualmente estou trabalhando em alguns projetos pessoais para aprendizado e aumentar meu portfólio.
+- 🌱 Aprendendo: Sistemas de Informações, desenvolvimento de APP/Sites e Designer UI/UX.
+- ⚡ Fato curioso: Amo ver séries coreanas e sou um grande fã de culturas diferentes da minha!
+- 📫 Como me contatar: [arygucha@gmail.com](mailto:arygucha@gmail.com)
